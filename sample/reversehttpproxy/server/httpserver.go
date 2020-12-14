@@ -20,7 +20,7 @@ import (
 	"github.com/flynn/noise"
 	"github.com/julienschmidt/httprouter"
 	"golang.org/x/crypto/acme/autocert"
-	"gopkg.in/noisesocket.v0"
+	"github.com/y3llowcake/noisesocket"
 	"log"
 )
 

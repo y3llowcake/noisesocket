@@ -17,7 +17,7 @@ import (
 	"github.com/flynn/noise"
 	"github.com/namsral/flag"
 	"github.com/oxtoacart/bpool"
-	"gopkg.in/noisesocket.v0"
+	"github.com/y3llowcake/noisesocket"
 )
 
 var (

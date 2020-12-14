@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/flynn/noise"
-	"gopkg.in/noisesocket.v0"
+	"github.com/y3llowcake/noisesocket"
 )
 
 func main() {

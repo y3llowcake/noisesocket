@@ -18,7 +18,7 @@ import (
 	"crypto/tls"
 
 	"github.com/flynn/noise"
-	"gopkg.in/noisesocket.v0"
+	"github.com/y3llowcake/noisesocket"
 )
 
 var (
